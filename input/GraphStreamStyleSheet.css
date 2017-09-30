@@ -1,0 +1,29 @@
+node
+{
+    shape: circle;
+    size: 50px, 50px;
+    fill-mode: plain;   /* Default.          */
+    fill-color: #2cb2ff;    /* Default is black. */
+    stroke-mode: plain; /* Default is none.  */
+    stroke-width: 5px;
+    stroke-color: black; /* Default is black. */
+    text-size: 20px;
+    text-background-mode: rounded-box;
+    text-background-color: #cfcfcf;
+    text-offset: 50px, 0px;
+}
+
+node.solution
+{
+    fill-color: #b2ff68;
+}
+
+node.incorrect
+{
+    fill-color: #ff6242;
+}
+
+edge
+{
+    size: 5px;
+}
