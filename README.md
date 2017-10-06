@@ -1,8 +1,8 @@
 
-[Engine explantion](http://owaisblog.com/index.php/2015/10/25/logic-engine-in-javapart-1/)
+<a href="(http://owaisblog.com/index.php/2015/10/25/logic-engine-in-javapart-1/" target="_blank">Engine explantion</a>
 
-[An example problem to solve](http://owaisblog.com/index.php/2015/10/30/22/)
+<a href="http://owaisblog.com/index.php/2015/10/30/22/" target="_blank">An example problem to solve</a>
 
-[How the engine was used to solve the problem](http://owaisblog.com/index.php/2015/10/30/logic-engine-in-javapart-3/)
+<a href="http://owaisblog.com/index.php/2015/10/30/logic-engine-in-javapart-3/" target="_blank">How the engine was used to solve the problem</a>
 
-[A demo app of the working solution](http://owaisblog.com:3456/AlchemistsDeducer/)
+<a href="http://owaisblog.com:3456/AlchemistsDeducer/" target="_blank">A demo app of the working solution</a>
