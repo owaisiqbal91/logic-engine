@@ -1,5 +1,5 @@
 
-<a href="(http://owaisblog.com/index.php/2015/10/25/logic-engine-in-javapart-1/" target="_blank">Engine explantion</a>
+<a href="http://owaisblog.com/index.php/2015/10/25/logic-engine-in-javapart-1/" target="_blank">Engine explantion</a>
 
 <a href="http://owaisblog.com/index.php/2015/10/30/22/" target="_blank">An example problem to solve</a>
 
